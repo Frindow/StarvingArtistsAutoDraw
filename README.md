@@ -1,5 +1,5 @@
 # StarvingArtistsAutoDraw
-## Installation
+### Installation
 
 1. Ensure you have Python installed on your system
 2. In command prompt or powershell run `pip install ahk ahk_binary pillow requests pynput pyautogui `
