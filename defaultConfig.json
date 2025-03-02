@@ -1,5 +1,5 @@
 {
-    "stop_key": "esc",
+    "stop_key": "Escape",
     "color_tolerance": 30,
     "mouse_speed": 5,
     "canvas_start_x": 664,
