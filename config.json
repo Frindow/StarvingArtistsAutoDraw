@@ -1,7 +1,7 @@
 {
     "stop_key": "Escape",
     "color_tolerance": 30,
-    "mouse_speed": 10,
+    "mouse_speed": 5,
     "canvas_start_x": 664,
     "canvas_start_y": 176,
     "color_wheel_button": [
